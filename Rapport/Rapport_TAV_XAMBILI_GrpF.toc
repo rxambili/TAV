@@ -1,0 +1,7 @@
+\select@language {french}
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}
+\contentsline {section}{\numberline {2}TP01 : Espaces de repr\IeC {\'e}sentations des couleurs}{2}{section.2}
+\contentsline {subsection}{\numberline {2.1}Corr\IeC {\'e}lations et contraste des canaux RVB}{2}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Transmission d'une image couleur par un seul canal}{3}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Analyse en composantes principales}{4}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}Combinaisons lin\IeC {\'e}aire des trois canaux RVB}{5}{subsection.2.4}
